@@ -11,3 +11,123 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.fishers {
+  z-index: 200;
+}
+
+/* // image class */
+.fisher {
+  width: 100px;
+  height: 100px;
+}
+
+.pond {
+  height: 500px;
+  width: 100vw;
+  /* background-color: blue; */
+}
+
+.ocean {
+  width: 100vw;
+  z-index: 100;
+}
+
+/* .cast-button {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 5;
+  bottom: 5;
+} */
+
+button:focus{
+  border-color:transparent!important;
+  outline:none;
+ }
+
+.buttonnnn {
+  position: absolute;
+  right: 15px;
+  bottom: 15px;
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+}
+
+.buttonnnn2 {
+  position: absolute;
+  right: 315px;
+  bottom: 15px;
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+}
+
+.buttonnnn3 {
+  position: absolute;
+  right: 215px;
+  bottom: 15px;
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+}
+
+.buttonnnn4 {
+  position: absolute;
+  right: 115px;
+  bottom: 15px;
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+}
+
+.buttonnnn5 {
+  position: absolute;
+  right: 415px;
+  bottom: 15px;
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+}
+.fish {
+  position: absolute;
+  bottom: 150px;
+  left: 20px;
+  height: 40px;
+}
+.fish2 {
+  position: absolute;
+  bottom: 250px;
+  right: 15px;
+  height: 200px;
+}
+.fish3 {
+  position: absolute;
+  bottom: 350px;
+  left: 520px;
+  height: 40px;
+  transform: scaleX(-1);
+}
+.fish4 {
+  position: absolute;
+  bottom:350px;
+  left: 50px;
+  height: 40px;
+}
+.fish5 {
+  position: absolute;
+  bottom: 50px;
+  left: 320px;
+  height: 100px;
+  transform: scaleX(-1);
+}
+.thing2 {
+  position: absolute;
+  bottom: 250px;
+  left: 15px;
+  height: 200px;
+  transform: scaleX(-1);
+}
+
+
